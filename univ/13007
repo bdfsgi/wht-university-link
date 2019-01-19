@@ -1,0 +1,51 @@
+var univ_list = {
+
+    school: "中南林业科技大学",
+
+    id: "13007",
+
+    link: [ {
+
+        name: "林科大主页",
+
+        url: "http://www.csuft.edu.cn/"
+
+    }, {
+
+        name: "信息中心",
+
+        url: "http://ic.csuft.edu.cn/"
+
+    }, {
+
+        name: "图书馆",
+
+        url: "http://lib.csuft.edu.cn:8080/"
+
+    }, {
+
+        name: "教务处",
+
+        url: "http://jwc.csuft.edu.cn/"
+
+    }, {
+
+        name: "SSLVPN",
+
+        url: "https://222.240.169.10/por/login_psw.csp"
+
+    }, {
+
+        name: "统一身份认证",
+
+        url: "http://authserver.csuft.edu.cn/authserver/login?service=http%3A%2F%2Fjwgl.csuft.edu.cn%2F"
+
+    }, {
+
+        name: "涉外学院",
+
+        url: "http://swxy.csuft.edu.cn/"
+
+    } ]
+
+};
